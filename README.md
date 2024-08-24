@@ -6,5 +6,7 @@ To achieve these goals, I need only three things:
 1. Discipline
 2. Patience
 3. Love
-4. 
-   ![Нетология! Пожалуйста, позабодьтесь обо мне!](/ee.png)
+
+
+   ## Спасибо за внимание! 
+   ![Нетология! Пожалуйста, позаботьтесь обо мне!](/ee.png)
